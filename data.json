@@ -1,0 +1,42 @@
+{
+<<<<<<< HEAD
+    "students": [
+        {
+            "id": 1,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/57838986?s=400&u=7485c61f700dfb5f1d5d7bb89082993a6e2327f0&v=4",
+            "name": "Mauricio Montenegro",
+            "email": "m.b.mont17@gmail.com",
+            "birth": 695606400000,
+            "gender": "M",
+            "blood": "5F",
+            "weight": "20"
+        },
+        {
+            "id": 2,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/57838986?s=400&u=7485c61f700dfb5f1d5d7bb89082993a6e2327f0&v=4",
+            "name": "MAURICIO BARBOSA MONTENEGRO",
+            "email": "m.b.mont17@gmail.com",
+            "birth": "1992-01-17",
+            "gender": "F",
+            "schoolyear": "5F",
+            "hoursperweek": "25",
+            "bith": 695606400000
+        }
+    ],
+    "teachers": [
+        {
+            "id": 1,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/57838986?s=400&u=7485c61f700dfb5f1d5d7bb89082993a6e2327f0&v=4",
+            "name": "Mauricio Montenegro",
+            "birth": "",
+            "degree": "DR",
+            "spot": "offline",
+            "services": "Crossfit, Yoga",
+            "created_at": 1593196296779,
+            "bith": null
+        }
+=======
+    "instructors": [
+>>>>>>> parent of 132cba8... Layout finalizado
+    ]
+}
